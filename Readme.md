@@ -1,7 +1,7 @@
 # Azure_DataEngineering
 ### The project is related to BBC Sports Magazine for Formula 1 rankings.
 
-###Steps followed:
+## Steps followed:
 
 #### Step 1:
 #### Access source data from Ergast and Ingest Data into the Databricks Notebooks. 
